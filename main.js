@@ -1,4 +1,3 @@
-// 此处代码如果有错误或者需要优化的地方，请联系作者。(小伙伴们在使用的时候切记不要忘了暴露store,这个错很多小伙伴都犯过!切记)
 import App from './App';
 import Vue from 'vue';
 
